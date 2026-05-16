@@ -1,0 +1,12 @@
+{
+  "description": "Limits RBLX - Roblox limiteds e-commerce store",
+  "domain": "limitsrblx",
+  "owner": {
+    "username": "jimmecoder",
+    "email": "jimmeboonstra11@gmail.com"
+  },
+  "record": {
+    "CNAME": "roblox-limiteds-1.emergent.host"
+  },
+  "proxied": false
+}
